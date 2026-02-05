@@ -29,9 +29,14 @@ nav a {
     color:black !important;
 }
 
-.imagen_yo {
+.imagen {
     display: block;
     width: 1000PX;
     height: auto;
     margin: auto;
+}
+
+.pie {
+    display: flex;
+    justify-content: center;
 }
